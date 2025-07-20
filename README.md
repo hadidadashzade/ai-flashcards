@@ -1,9 +1,6 @@
-markdown
 # AI Flashcards
 
 A simple and smart command-line flashcard program built in Python to help you learn effectively using spaced repetition and fuzzy answer matching.
-
-> This project was created as a final project for the CS50x 2022 course.
 
 ---
 
@@ -81,17 +78,15 @@ You will see a menu:
 
 ## License
 
-This project is open-source and free to use.
+This project is open-source and free to use.  
+Licensed under the [MIT License](LICENSE).
 
 ---
 
 ## Author
 
-Hadi Dadashzade
+**Hadi Dadashzade**
 
 ---
 
 Feel free to open issues or contribute to improve this project!
-
-```
-```
