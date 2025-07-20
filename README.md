@@ -1,4 +1,4 @@
-````markdown
+markdown
 # AI Flashcards
 
 A simple and smart command-line flashcard program built in Python to help you learn effectively using spaced repetition and fuzzy answer matching.
